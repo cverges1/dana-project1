@@ -1,9 +1,24 @@
+* {
+    color: #bababa;
+}
+
 main {
   height: 600px;
   background-image: url(../assets/hero-img.jpg);
   background-size: 100%; /* Cover the entire background */
   background-repeat: no-repeat; /* Do not repeat the background image */
-  color: white;
+}
+
+nav {
+    margin-right: 30px;
+}
+
+h3 {
+    color: #8d8d8d;
+}
+
+section {
+    padding: 50px;
 }
 
 .nav-link {
@@ -11,7 +26,15 @@ main {
 }
 
 #hero {
-    margin-top: 100px;
+    margin: 100px;
+}
+
+#hero-header {
+    color: white;
+}
+
+#hero-text {
+    color: white;
 }
 
 .grey-bg {
@@ -22,8 +45,13 @@ main {
   background-image: url(../assets/bg-pattern.svg);
 }
 
+#fifty-fifty-sect {
+    margin-top: 100px;
+}
+
 .btn {
   background-color: #7ec7d4;
+  border: none;
 }
 
 #outlined-btn {
@@ -32,6 +60,45 @@ main {
     color: #7ec7d4;
 }
 
+#vid-text {
+    padding-top: 20px;
+}
+
+.dropdown-toggle {
+    width: 100%;
+    background: none;
+    color: #7ec7d4;
+    text-align: start;
+}
+
+.dropdown-toggle::after {
+    float: right;
+    margin-left: 0; /* Reset the left margin */
+}
+
+.dropdown-menu {
+    background: none;
+    border: none;
+}
+
+.dropdown-item {
+    max-width: 50px;
+}
+
 footer {
     background-color: #4d5966;
+    color: white;
+}
+
+#footer-link {
+    padding: -30px;
+}
+
+#input {
+    background: transparent;
+    border: solid #7ec7d4;
+}
+
+#input::placeholder {
+    color: #7ec7d4;
 }
