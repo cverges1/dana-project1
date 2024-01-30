@@ -1,0 +1,37 @@
+main {
+  height: 600px;
+  background-image: url(../assets/hero-img.jpg);
+  background-size: 100%; /* Cover the entire background */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+#hero {
+    margin-top: 100px;
+}
+
+.grey-bg {
+  background-color: #eeeeee;
+}
+
+#fifty-fifty {
+  background-image: url(../assets/bg-pattern.svg);
+}
+
+.btn {
+  background-color: #7ec7d4;
+}
+
+#outlined-btn {
+    background: none;
+    border: solid #7ec7d4;
+    color: #7ec7d4;
+}
+
+footer {
+    background-color: #4d5966;
+}
