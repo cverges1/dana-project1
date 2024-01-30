@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="379" height="67" viewBox="0 0 379 67">
+  <g id="Logo" transform="translate(-140 -33)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M23,0,46,67H0Z" transform="translate(140 33)" fill="#fff"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M23,0,46,67H0Z" transform="translate(232 100) rotate(180)" fill="#7ec6d3"/>
+    <text id="YOUR_LOGO" data-name="YOUR LOGO" transform="translate(262 86)" fill="#fff" font-size="48" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="0">YOUR LOGO</tspan></text>
+  </g>
+</svg>
