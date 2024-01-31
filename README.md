@@ -12,13 +12,14 @@
   -[Credits](#credits)
   -[License](#license)  
 
+
   ## Installation
   
   To install this project, download the starter code from https://github.com/cverges1/dana-project1. 
   
   ## Usage
   
-  
+  For usage, open the PDF found in the Archive folder title "Home.pdf" then in a seperate tab head to https://cverges1.github.io/dana-project1/ and compare the two. 
   
   ## Credits
   
