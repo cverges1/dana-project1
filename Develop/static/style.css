@@ -79,10 +79,11 @@ section {
 .dropdown-menu {
     background: none;
     border: none;
+    padding-bottom: 10px; /* Adjust the value as needed */
 }
 
 .dropdown-item {
-    max-width: 50px;
+    white-space: normal;
 }
 
 footer {
